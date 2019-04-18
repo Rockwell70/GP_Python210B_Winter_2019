@@ -1,3 +1,0 @@
-#test file for new folder
-
-print('testing, testing 1,2,3')

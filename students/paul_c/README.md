@@ -1,1 +1,0 @@
-Hello, my name is Paul and I do infrastructure engineering for a living. I am interested in learning Python because I believe it will help me build automation around the CI/CD pipelines that I support.
